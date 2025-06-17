@@ -1,0 +1,22 @@
+{
+  "name": "simon-says-jest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenneth2-3/simon-says-jest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenneth2-3/simon-says-jest1/issues"
+  },
+  "homepage": "https://github.com/kenneth2-3/simon-says-jest1#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
